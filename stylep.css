@@ -1,0 +1,55 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+img{
+    width: 180px; 
+    height: 300px;
+}
+.widget{
+    padding: 2em;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-align: center;
+}
+
+h3,h6{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+h4,h5{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+ul{
+    display: block;
+    margin-block-start: .84em;
+    margin-block-end: .84em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+body{
+    background-color: rgb(180, 140, 20);
+}
+.span{
+    color: rgb(10, 10, 9);
+    font-weight: bold;
+}
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    text-align: left;
+    color: antiquewhite;
+    
+}
